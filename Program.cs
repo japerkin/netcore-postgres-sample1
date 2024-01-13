@@ -18,11 +18,11 @@ namespace PostgresSample1;
 class Program
 {
     // Obtain connection string information for database.
-    private static string Host = "localhost";
-    private static string User = "postgres";
-    private static string DBName = "postgres";
-    private static string Password = "mysecretpassword";
-    private static string Port = "5432";
+    private static string Host = "";
+    private static string User = "";
+    private static string DBName = "";
+    private static string Password = "";
+    private static string Port = "";
 
 
     static void Main(string[] args)
